@@ -37,7 +37,7 @@ Nerd assumida, quando não estou desenvolvendo algo, provavelmente estou fotogra
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="python logo"  />
   <img width="12" />
-  <img src="https://shinobite.com/assets/svg/cypress.svg" height="22" alt="cypress logo"  />
+  <img src="https://shinobite.com/assets/svg/cypress1.svg" height="22" alt="cypress logo"  />
   <img width="12" />
   <img src="https://shinobite.com/assets/svg/robotframework.svg" height="22" alt="robot framework logo"  />
   <img width="12" />
