@@ -1,7 +1,7 @@
 `Analista de Qualidade (QA)`
 
 <div align="center">
-  <img height="200" src="https://iili.io/f5BzMZJ.gif" />
+  <img height="200" src="https://shinobite.com/assets/svg/svg-cogumos-github.gif" />
 </div>
 
 <h2 align="left"></h2>
@@ -37,13 +37,13 @@ Nerd assumida, quando não estou desenvolvendo algo, provavelmente estou fotogra
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="22" alt="python logo"  />
   <img width="12" />
-  <img src="https://netcattest.com/im/cypress-icon-logo.svg" height="22" alt="cypress logo"  />
+  <img src="https://shinobite.com/assets/svg/cypress.svg" height="22" alt="cypress logo"  />
   <img width="12" />
-  <img src="https://netcattest.com/im/robot-framework-seeklogo.svg" height="22" alt="robot framework logo"  />
+  <img src="https://shinobite.com/assets/svg/robotframework.svg" height="22" alt="robot framework logo"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/selenium/selenium-original.svg" height="22" alt="selenium logo"  />
   <img width="12" />
-  <img src="https://netcattest.com/im/postman-icon-svgrepo-com.svg" height="22" alt="postman"  />
+  <img src="https://shinobite.com/assets/svg/postman.svg" height="22" alt="postman"  />
   <img width="12" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/gitlab/gitlab-original.svg" height="22" alt="gitlab logo"  />
   <img width="12" />
